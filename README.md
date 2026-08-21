@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/M.Tech_CSE-VIT--AP-6D28D9?style=flat-square&labelColor=0f0524)
-![Location](https://img.shields.io/badge/📍-Guntur,_Andhra_Pradesh,_India-4C1D95?style=flat-square&labelColor=0f0524)
+![Location](https://img.shields.io/badge/📍-Andhra_Pradesh,_India-4C1D95?style=flat-square&labelColor=0f0524)
 
 <br/>
 
@@ -111,11 +111,11 @@ Modular Infrastructure-as-Code solution provisioning both Linux and Windows Virt
 
 ## 🎓 Education
 
-| Institution | Degree | Duration | Score |
-|---|---|---|---|
-| Vellore Institute of Technology (VIT-AP) | M.Tech (Integrated) — Computer Science & Engineering | 2021 – 2026 (Expected) | CGPA: 7.84 |
-| Narayana Jr. College | Intermediate (MPC) | 2021 | 69.4% |
-| Oxford IIT School | Secondary School (SSC) | 2019 | CGPA: 9.0 |
+| Institution | Degree | Duration |
+|---|---|---|
+| Vellore Institute of Technology (VIT-AP) | M.Tech (Integrated) — Computer Science & Engineering | 2021 – 2026 | 
+| Narayana Jr. College | Intermediate (MPC) | 2021 |
+| Oxford IIT School | Secondary School (SSC) | 2019 |
 
 <br/>
 
