@@ -14,6 +14,7 @@
 <br/>
 
 <a href="https://adi-2023.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-556B2F?style=for-the-badge&logo=vercel&logoColor=F3EBDD" /></a>
+<a href="https://checkmygit.com/adithyavenkatkumar"><img src="https://img.shields.io/badge/CheckMyGit-7A8450?style=for-the-badge&logo=git&logoColor=F3EBDD" /></a>
 <a href="https://www.linkedin.com/in/adithya-venkat-kumar-520062231/"><img src="https://img.shields.io/badge/LinkedIn-3F4A25?style=for-the-badge&logo=linkedin&logoColor=F3EBDD" /></a>
 <a href="mailto:adithyavenkat0210@gmail.com"><img src="https://img.shields.io/badge/Email-7A8450?style=for-the-badge&logo=gmail&logoColor=F3EBDD" /></a>
 <a href="https://github.com/adithyavenkatkumar"><img src="https://img.shields.io/badge/GitHub-34342E?style=for-the-badge&logo=github&logoColor=F3EBDD" /></a>
@@ -123,6 +124,11 @@ Core principles I apply:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavenkatkumar&layout=compact&hide_border=true&bg_color=F3EBDD&title_color=3F4A25&text_color=34342E" />
 
+<br/><br/>
+<a href="https://checkmygit.com/adithyavenkatkumar">
+  <img src="https://img.shields.io/badge/View_Full_Developer_Hub-CheckMyGit-556B2F?style=for-the-badge&logo=git&logoColor=F3EBDD&labelColor=3F4A25" />
+</a>
+
 </div>
 
 ## GitHub Trophies
@@ -174,6 +180,7 @@ Open to:
 <a href="mailto:adithyavenkat0210@gmail.com"><img src="https://img.shields.io/badge/Gmail-7A8450?style=for-the-badge&logo=gmail&logoColor=F3EBDD" /></a>
 <a href="https://www.linkedin.com/in/adithya-venkat-kumar-520062231/"><img src="https://img.shields.io/badge/LinkedIn-3F4A25?style=for-the-badge&logo=linkedin&logoColor=F3EBDD" /></a>
 <a href="https://github.com/adithyavenkatkumar"><img src="https://img.shields.io/badge/GitHub-34342E?style=for-the-badge&logo=github&logoColor=F3EBDD" /></a>
+<a href="https://checkmygit.com/adithyavenkatkumar"><img src="https://img.shields.io/badge/CheckMyGit-556B2F?style=for-the-badge&logo=git&logoColor=F3EBDD" /></a>
 <a href="https://adi-2023.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-556B2F?style=for-the-badge&logo=vercel&logoColor=F3EBDD" /></a>
 
 </div>
