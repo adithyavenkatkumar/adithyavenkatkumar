@@ -54,21 +54,20 @@ Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
-### [Azure Multi-OS VM Infrastructure with Terraform](https://github.com/adithyavenkatkumar/azure-windows-linux-vm-terraform)
+### [Module_Forge – Multi-Cloud Terraform Infrastructure Framework](https://github.com/adithyavenkatkumar/Module_Forge)
 
-Designed and deployed a reusable Terraform infrastructure solution for provisioning Linux and Windows Virtual Machines on Microsoft Azure, including networking, security, and credential management.
+Designed and built a modular, production-grade Infrastructure as Code (IaC) framework for Microsoft Azure and Amazon Web Services (AWS), providing reusable child modules, multi-environment deployments, and automated CI/CD workflows.
 
 **Technologies:**  
-`Terraform` • `Microsoft Azure` • `Azure Key Vault` • `Virtual Machines` • `VNets` • `Subnets` • `NSGs` • `NICs` • `Public IPs` • `Azure CLI`
+`Terraform` • `Microsoft Azure` • `AWS` • `Infrastructure as Code` • `Azure Key Vault` • `AWS KMS` • `Multi-Cloud` • `CI/CD` • `Azure CLI` • `AWS CLI`
 
 **Key Highlights:**
-- Designed 10 reusable Terraform modules
-- Provisioned Azure VM and networking infrastructure
-- Integrated Azure Key Vault for secure administrator credentials
-- Eliminated hardcoded secrets from Terraform configuration
-- Implemented map-based, data-driven Terraform configurations
-- Documented Terraform `init`, `validate`, `plan`, `apply`, and `destroy` workflows
-- Used Azure CLI authentication
+- Designed multi-cloud framework with 36 reusable child modules across Azure and AWS
+- Structured multi-environment configurations across Dev, Test, Staging, Prod, and DR environments
+- Integrated secure credential management eliminating hardcoded secrets using Azure Key Vault and AWS KMS
+- Built zero-secret GitHub Actions CI/CD pipelines with OIDC authentication
+- Provisioned enterprise landing zone architectures for networking, VMs, storage, and security
+- Documented full Terraform lifecycle workflows (`init`, `validate`, `plan`, `apply`, `destroy`) across standalone root modules
 
 ---
 
