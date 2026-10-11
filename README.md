@@ -144,5 +144,5 @@ VIT-AP University
 
 - **GitHub:** [github.com/adithyavenkatkumar](https://github.com/adithyavenkatkumar)
 - **LinkedIn:** [linkedin.com/in/adithya-venkat-kumar-520062231](https://www.linkedin.com/in/adithya-venkat-kumar-520062231/)
-- **Email:** [adithyavenkatkumar8@gmail.com](mailto:adithyavenkatkumar8@gmail.com)
+- **Email:** [adithyavenkatkumar8@gmail.com](mailto:adithyavenkatkumar8@gmail.com )
 - **Portfolio:** [portfolio-adithyavenkatkumar.vercel.app](https://portfolio-adithyavenkatkumar.vercel.app/)
